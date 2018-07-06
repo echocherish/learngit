@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/prefix">
+        <file>image/ellipse.png</file>
+        <file>image/eraser.png</file>
+        <file>image/line.png</file>
+    </qresource>
+</RCC>
